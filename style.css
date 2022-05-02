@@ -1,0 +1,31 @@
+#banner{
+    width: 960px;
+    height: 275px;
+    border: 1px;
+}
+a{
+    color: rgb(56, 0, 56);
+    text-decoration-line: none;
+    display: inline-block;
+    text-align: center;
+}
+
+
+#bannerDiv{
+    text-align: center;
+}
+#linksDiv{
+    margin-top: 5px;
+    text-align: center;
+}
+#productsDiv{
+    margin-top: 20px;
+    text-align: center;
+}
+
+#aboutDiv{
+    margin-top: 20px;
+}
+#listDiv{
+    margin-top: 20px;
+}
